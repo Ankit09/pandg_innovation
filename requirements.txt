@@ -8,7 +8,7 @@ cffi==1.13.2
 chardet==3.0.4
 Click==7.0
 colormath==3.0.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.1
 deepspeech==0.6.1
