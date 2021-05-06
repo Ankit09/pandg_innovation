@@ -16,7 +16,7 @@ deepspeech-tflite==0.6.1
 docutils==0.15.2
 drawnow==0.72.5
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-SocketIO==4.2.1
 gast==0.2.2
 google-auth==1.10.0
